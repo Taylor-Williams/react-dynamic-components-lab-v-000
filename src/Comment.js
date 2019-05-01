@@ -1,2 +1,2 @@
 // add Comment component here
-import React {Component} from React;
+import React {Component} from "react";
