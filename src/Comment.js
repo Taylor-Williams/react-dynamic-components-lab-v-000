@@ -1,4 +1,8 @@
 // add Comment component here
 import React {Component} from "react";
 
-export default class
+export default class Comment extends Component{
+  render() {
+    return 
+  }
+}
